@@ -19,3 +19,4 @@ Instruction :
 I hope the instructions are clear and easy to follow. With every project, I will try to make the instructions as beginner-friendly as possible.
 
 
+# Developer : Tran Trung Dung & Vu Minh Huy - ET1 - HUST
